@@ -6,8 +6,8 @@ import numpy as np
 import sys
 
 CLIENT = InferenceHTTPClient(
-    api_url="https://detect.roboflow.com",
-    api_key="l8jYuI2kzlX5MAu7uvbK"
+    api_url="",
+    api_key=""
 )
 
 # img_path = "data/Screenshot 2024-07-17 214040.png"
