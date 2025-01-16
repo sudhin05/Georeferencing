@@ -6,8 +6,8 @@ from inference_sdk import InferenceHTTPClient
 import sys
 
 CLIENT = InferenceHTTPClient(
-    api_url="https://detect.roboflow.com",
-    api_key="l8jYuI2kzlX5MAu7uvbK"
+    api_url="",
+    api_key=""
 )
 
 flight_log_path = 'data/Aug-30th-2022-12-59PM-Flight-Airdata.csv'
